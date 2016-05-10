@@ -1,3 +1,5 @@
 build/
 .gradle
 .asscache
+quoteDB.mv.db
+quoteDB.trace.db
